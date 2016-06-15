@@ -1,7 +1,8 @@
 package com.salil.git;
 
 /**
- * Created by salilsurendran on 6/14/16.
+ * This is a file that has been created to test git changes. Specifically
+ * we are looking at how IntelliJ treats autocommits.
  */
-public class GitTest {
+public class GitTest /*To test conflict resolution*/{
 }

@@ -5,4 +5,6 @@ package com.salil.git;
  * we are looking at how IntelliJ treats autocommits.
  */
 public class GitTest /*To test conflict resolution*/{
+
+    //A new commit has been added
 }

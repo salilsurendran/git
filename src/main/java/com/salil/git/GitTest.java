@@ -9,4 +9,6 @@ public class GitTest /*To test conflict resolution*/{
     //A new commit has been added
 
     //First commit
+
+    //Second Commit
 }

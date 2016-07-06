@@ -11,4 +11,8 @@ public class GitTest /*To test conflict resolution*/{
     //First commit
 
     //Second Commit
+
+    //Third Commit
+
+
 }

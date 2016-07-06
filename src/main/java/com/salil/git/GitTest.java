@@ -7,4 +7,6 @@ package com.salil.git;
 public class GitTest /*To test conflict resolution*/{
 
     //A new commit has been added
+
+    //First commit
 }

@@ -16,6 +16,12 @@ public class GitTest /*To test conflict resolution*/{
 
     //Fourth Commit
 
+    //Fifth Commit
+
+    //Sixth Commit
+
+
+
 
 }
 

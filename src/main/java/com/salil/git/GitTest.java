@@ -22,6 +22,8 @@ public class GitTest /*To test conflict resolution*/{
 
 //A new commit in master that shouldn't conflict with salil3
 
+ //A newer commit in master that shouldn't conflict with salil3
+
 
 }
 

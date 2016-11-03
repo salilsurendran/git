@@ -20,7 +20,7 @@ public class GitTest /*To test conflict resolution*/{
 
     //Sixth Commit
 
-
+//A new commit in master that shouldn't conflict with salil3
 
 
 }

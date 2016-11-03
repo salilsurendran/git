@@ -5,4 +5,5 @@ package com.salil.git;
  */
 public class GitTest2 {
     //Second file to test git force push
+    //A commit amde in master
 }

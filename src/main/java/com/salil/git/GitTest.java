@@ -8,7 +8,7 @@ public class GitTest /*To test conflict resolution*/{
 
     //A new commit has been added
 
-    //First commit
+    //A commit that should generate a conflict commit
 
     //Second Commit
 

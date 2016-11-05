@@ -6,4 +6,5 @@ package com.salil.git;
  * with dirty files in the working tree
  */
 public class GitTest3 {
+    //A change made in a different working folder and pushed to upstream repo
 }

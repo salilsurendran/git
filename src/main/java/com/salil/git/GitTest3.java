@@ -7,4 +7,5 @@ package com.salil.git;
  */
 public class GitTest3 {
     //A change made in a different working folder and pushed to upstream repo
+    //Change made in Git1 that shouldn't appear in Git2 folder with just a git fetch
 }

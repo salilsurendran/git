@@ -24,7 +24,8 @@ public class GitTest /*To test conflict resolution*/{
 
  //A newer commit in master that shouldn't conflict with salil3
 
-
+ //A commit added to master that shouldn't conflict with salil3 even though files are checked out
+ // in salil3
 }
 
 /**
